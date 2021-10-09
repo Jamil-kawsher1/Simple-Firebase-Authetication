@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+.box-size{
+  width: 600px;
+  height: 350px;
+  
+  }
+  .mar-top{
+    margin-top: 15%;
+    }
+
+    body{
+      background-color:cornsilk;
+    }
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +49,4 @@
     transform: rotate(360deg);
   }
 }
+
